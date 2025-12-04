@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/mini-dashboard/static/js/main.58a5b35d.js",
+    "index.html": "/mini-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/mini-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.58a5b35d.js.map": "/mini-dashboard/static/js/main.58a5b35d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.58a5b35d.js"
+  ]
+}
